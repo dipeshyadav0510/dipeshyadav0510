@@ -1,11 +1,13 @@
 <div align="center">
 
-![AI Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hi%20I%20am%20Dipesh%20Yadav&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=50)
+![AI Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=header&text=Hi%20I%20am%20Dipesh%20Yadav&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=50)
 
 </div>
 
 <div align="center">
+  
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&random=false&width=600&lines=AI+%26+ML+Enthusiast;Full+Stack+Developer;Problem+Solver;Always+Learning+New+Things" alt="Typing SVG" />
+  
 </div>
 
 <div align="center">
@@ -63,7 +65,7 @@ I'm a passionate developer focused on building innovative solutions in computer 
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=dipeshyadav0510&theme=tokyonight&hide_border=true&background=0D1117&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/demo/?user=dipeshyadav0510&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
