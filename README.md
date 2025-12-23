@@ -1,6 +1,12 @@
 # 👋 Hi, I'm Dipesh Yadav
 
 <div align="center">
+
+![AI Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=AI%20/%20ML%20Engineer&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Deep%20Learning%20|%20Computer%20Vision%20|%20Medical%20AI&descAlignY=55&descAlign=50)
+
+</div>
+
+<div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&random=false&width=600&lines=AI+%26+ML+Enthusiast;Full+Stack+Developer;Problem+Solver;Always+Learning+New+Things" alt="Typing SVG" />
 </div>
 
@@ -60,14 +66,6 @@ I'm a passionate developer focused on building innovative solutions in computer 
 
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=dipeshyadav0510&theme=tokyonight&hide_border=true&background=0D1117&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6" alt="GitHub Streak" />
-</div>
-
----
-
-## 🏆 GitHub Metrics
-
-<div align="center">
-  <img src="https://metrics.lecoq.io/dipeshyadav0510?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&achievements=1&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&config.timezone=Asia%2FKathmandu" alt="Achievements" />
 </div>
 
 ---
