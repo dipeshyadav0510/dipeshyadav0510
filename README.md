@@ -23,8 +23,8 @@
 
 I'm a passionate developer focused on building innovative solutions in computer science: particularly in **artificial intelligence**. I love working on projects that challenge me to learn and grow, especially in the areas in which Nepal lacks behind. 
 
-- 🔭 Currently working on **AI-powered analysis tools**
-- 🌱 Learning **Advanced Machine Learning & Neural Networks**
+- 🤖 Currently working on **AI-powered analysis tools**
+- 📖 Learning **Advanced Machine Learning & Neural Networks**
 - 💼 Open to collaborating on **open source projects**
 - 💬 Ask me about **Python, JavaScript, AI/ML, Web Development**
 
@@ -80,20 +80,61 @@ I'm a passionate developer focused on building innovative solutions in computer 
 
 ## 🎯 Featured Projects
 
-### 🧠 [Brain Tumor Detection](https://github.com/dipeshyadav0510/brain-tumor)
+<div align="center">
+
+<table>
+<tr>
+<td width="50%">
+
+### 🧠 Brain Tumor Detection
+[![Repo](https://img.shields.io/badge/Repo-Brain_Tumor_Detection-blue?style=for-the-badge&logo=github)](https://github.com/dipeshyadav0510/brain-tumor)
+
 AI-powered neural network for brain MRI analysis using Python and Keras. Helps make brain imaging analysis accessible to everyone.
 
-**Tech:** Python • TensorFlow • Keras • OpenCV
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 
-### 💼 [Construction Company Website](https://github.com/dipeshyadav0510/company)
+</td>
+<td width="50%">
+
+### 💼 Construction Company Website
+[![Repo](https://img.shields.io/badge/Repo-Company_Website-green?style=for-the-badge&logo=github)](https://github.com/dipeshyadav0510/company)
+
 Modern, responsive website for Maa Jalapa Construction Supplier And Builders Pvt. Ltd.
 
-**Tech:** TypeScript • React • Next.js • Tailwind CSS
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 
-### 🎨 [Modern Portfolio](https://github.com/dipeshyadav0510/modern-portfolio)
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🎨 Modern Portfolio
+[![Repo](https://img.shields.io/badge/Repo-Portfolio-purple?style=for-the-badge&logo=github)](https://github.com/dipeshyadav0510/modern-portfolio)
+
 Clean and modern personal portfolio website with smooth animations.
 
-**Tech:** JavaScript • React • CSS3 • Framer Motion
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Framer](https://img.shields.io/badge/Framer-0055FF?style=flat-square&logo=framer&logoColor=white)
+
+</td>
+<td width="50%">
+
+### 🚀 More Coming Soon...
+Working on exciting new projects in AI/ML and Web Development!
+
+</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
