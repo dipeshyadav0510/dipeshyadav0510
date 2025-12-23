@@ -64,23 +64,18 @@ I'm a passionate developer focused on building innovative solutions in computer 
 
 ---
 
-## 🏆 GitHub Achievements
+## 🏆 Achievements & Metrics
 
 <div align="center">
-
-![Commits](https://img.shields.io/badge/Commits-1000%2B-gold?style=for-the-badge&logo=github)
-![Stars](https://img.shields.io/badge/Stars-500%2B-yellow?style=for-the-badge&logo=github)
-![Followers](https://img.shields.io/badge/Followers-100%2B-blue?style=for-the-badge&logo=github)
-![Repositories](https://img.shields.io/badge/Repos-50%2B-green?style=for-the-badge&logo=github)
-
+  <img src="https://metrics.lecoq.io/dipeshyadav0510?template=classic&achievements=1&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&config.timezone=Asia%2FKathmandu" alt="Metrics" />
 </div>
 
 ---
 
-## 📈 Contribution Graph
+## 📊 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dipeshyadav0510&bg_color=0D1117&color=3B82F6&line=3B82F6&point=FFFFFF&hide_border=true" alt="Contribution Graph" />
+  <img src="https://raw.githubusercontent.com/dipeshyadav0510/dipeshyadav0510/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
 
 ---
