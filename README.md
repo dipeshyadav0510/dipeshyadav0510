@@ -1,9 +1,11 @@
 <div align="center">
 
-![Wave Top](https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=100&section=header)
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=800&lines=Hi+I+am+Dipesh+Yadav;AI+%2F+ML+Enthusiast;Full+Stack+Developer;Problem+Solver" alt="Typing SVG" />
-![Wave Bottom](https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=100&section=footer)
+![AI Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hi%20I%20am%20Dipesh%20Yadav&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=50)
 
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&random=false&width=600&lines=AI+%26+ML+Enthusiast;Full+Stack+Developer;Problem+Solver;Always+Learning+New+Things" alt="Typing SVG" />
 </div>
 
 <div align="center">
