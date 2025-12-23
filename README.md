@@ -1,10 +1,10 @@
 <div align="center">
 
-![AI Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=header&text=Hi%20I%20am%20Dipesh%20Yadav&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=50)
+![AI Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hi%20I%20am%20Dipesh%20Yadav&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=50)
 
 </div>
 
-<div align="center">
+<div align="center" style="margin-top: -40px;">
   
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&random=false&width=600&lines=AI+%26+ML+Enthusiast;Full+Stack+Developer;Problem+Solver;Always+Learning+New+Things" alt="Typing SVG" />
   
