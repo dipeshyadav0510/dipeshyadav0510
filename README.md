@@ -64,10 +64,15 @@ I'm a passionate developer focused on building innovative solutions in computer 
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 GitHub Achievements
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dipeshyadav0510&theme=tokyonight&column=7&row=1" alt="GitHub Trophies" />
+
+![Commits](https://img.shields.io/badge/Commits-1000%2B-gold?style=for-the-badge&logo=github)
+![Stars](https://img.shields.io/badge/Stars-500%2B-yellow?style=for-the-badge&logo=github)
+![Followers](https://img.shields.io/badge/Followers-100%2B-blue?style=for-the-badge&logo=github)
+![Repositories](https://img.shields.io/badge/Repos-50%2B-green?style=for-the-badge&logo=github)
+
 </div>
 
 ---
