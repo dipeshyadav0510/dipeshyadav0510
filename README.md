@@ -1,12 +1,10 @@
-# 👋 Hi, I'm Dipesh Yadav
-
 <div align="center">
 
 ![Wave Top](https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=100&section=header)
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=800&lines=Dipesh+Yadav;AI+%2F+ML+Enthusiast;Full+Stack+Developer;Problem+Solver" alt="Typing SVG" />
-
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=800&lines=Hi+I+am+Dipesh+Yadav;AI+%2F+ML+Enthusiast;Full+Stack+Developer;Problem+Solver" alt="Typing SVG" />
 ![Wave Bottom](https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=100&section=footer)
+
+</div>
 
 <div align="center">
   
