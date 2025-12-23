@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Dipesh Yadav
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Developer;AI+%26+ML+Enthusiast;Problem+Solver;Always+Learning+New+Things" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&random=false&width=600&lines=AI+%26+ML+Enthusiast;Full+Stack+Developer;Problem+Solver;Always+Learning+New+Things" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -75,7 +75,7 @@ I'm a passionate developer focused on building innovative solutions in computer 
 ## 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dipeshyadav0510&bg_color=0D1117&color=3B82F6&line=3B82F6&point=FFFFFF&hide_border=true" alt="Contribution Graph" />
+  <img src="https://streak-stats.demolab.com/?user=dipeshyadav0510&theme=tokyonight&hide_border=true&background=0D1117&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6" alt="GitHub Streak" />
 </div>
 
 ---
