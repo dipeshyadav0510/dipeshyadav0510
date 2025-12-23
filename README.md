@@ -65,7 +65,7 @@ I'm a passionate developer focused on building innovative solutions in computer 
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/demo/?user=dipeshyadav0510&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=dipeshyadav0510&theme=tokyonight&hide_border=true&background=0D1117&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6" alt="GitHub Streak" />
 </div>
 
 ---
