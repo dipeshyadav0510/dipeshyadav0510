@@ -4,7 +4,7 @@
 
 ![Wave](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=header)
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&duration=2500&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&width=800&height=120&lines=🧠+Brain+Tumor+Detection;AI+Engineer+%7C+Deep+Learning+%7C+Computer+Vision;Always+Learning+%2C+Always+Building" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&random=false&width=600&lines=AI+%26+ML+Enthusiast;Full+Stack+Developer;Problem+Solver;Always+Learning+New+Things" alt="Typing SVG" />
 
 ![Wave](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer)
 
